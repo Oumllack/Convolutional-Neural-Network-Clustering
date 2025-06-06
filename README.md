@@ -80,7 +80,6 @@ All figures are saved in the `visualizations/` folder. Below, we present and int
 - **Conclusion:** K-means finds meaningful groupings, but class imbalance may affect cluster sizes.
 
 ### 4.5 t-SNE Cluster Visualization
-*(If available:)*
 ![t-SNE Clusters](visualizations/20250607_053032/tsne_clusters.png)
 **Interpretation:**
 - t-SNE provides a non-linear projection of the high-dimensional features into 2D.
@@ -127,5 +126,3 @@ All figures are saved in the `visualizations/` folder. Below, we present and int
 All figures are in English, with clear legends and axis labels. For custom analysis, see the code in `mnist_clustering.py` and `utils.py`.
 
 ---
-
-*For any questions or suggestions, please open an issue or contact the project maintainer.* 
