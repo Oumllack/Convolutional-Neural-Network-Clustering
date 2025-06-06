@@ -1,0 +1,29 @@
+# Données
+data/raw/
+data/processed/
+
+# Environnement virtuel
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de cache Python
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Fichiers de logs et temporaires
+*.log
+*.tmp
+.DS_Store
+
+# Fichiers de modèles sauvegardés
+*.h5
+*.pkl
+*.model
+
+# Fichiers d'environnement
+.env
+.venv
+env/ 
